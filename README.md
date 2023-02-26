@@ -2,7 +2,9 @@
 
 ### My name is Kaan and i am working as a Full Stack Software Engineer at Cresta.ai.
 
-- 🔭 In my free time i am currently working on https://github.com/kaaancan/ab-invoice-react
+- 🔭 In my free time i am currently working on 
+  -  https://github.com/kaaancan/ab-invoice-react => Web Application to create invoices (React, AWS Amplify)
+  -  https://github.com/kaaancan/ebay-kleinanzeigen-analyzer => Web Application to crawl specific items from a german marketplace and visualize the data to find the best deals quickly
 
 <!--
 **kaaancan/kaaancan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
